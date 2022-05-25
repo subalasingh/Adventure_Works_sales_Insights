@@ -7,9 +7,9 @@
 
 > This case study is contained within the **`Udemy Course`**  [Master Power BI Desktop & learn advanced Power BI analysis & data visualization](https://wipro.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) by [Maven Analytics](https://wipro.udemy.com/user/maven-analytics/).
 
-Designed an Power BI dashboard for Adventure Works Cycles, a global manufacturing company. Created dashboard to track KPIs (Sales, Revenue, Profit and Returns), compared regional performance, analyzed product-level trends and forecasts by using raw CSV files containing information about transactions, returns, products and territories.
+Designed an Power BI dashboard for Adventure Works Cycles, a global manufacturing company to track KPIs (Sales, Revenue, Profit and Returns), compared regional performance, analyzed product-level trends and forecasts by using raw CSV files containing information about transactions, returns, products and territories.
 
-Used Power BI desktop to:
+steps I followed:
 1. Connect and transform the raw data.
 2. Build a relational data model.
 3. Create new calculated coloums and DAX measures
