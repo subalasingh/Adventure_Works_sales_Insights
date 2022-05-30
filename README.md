@@ -9,7 +9,7 @@
 
 Designed an Power BI dashboard for Adventure Works Cycles, a global manufacturing company to track KPIs (Sales, Revenue, Profit and Returns), compared regional performance, analyzed product-level trends and forecasts by using raw CSV files containing information about transactions, returns, products and territories.
 
-steps I followed:
+# 🪜 steps I followed:
 1. Connect and transform the raw data.
 2. Build a relational data model.
 3. Create new calculated coloums and DAX measures
@@ -18,7 +18,7 @@ steps I followed:
 # 🧙‍♂️ Result
 
  ## Final Output
-Hooray! Finally, this is what out final input looks like:
+Hooray! Finally, this is what final output looks like:
 
 ### ➡️ **Adventure Works sales Dashboard**
 
